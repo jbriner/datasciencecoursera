@@ -6,3 +6,4 @@ I've added this one file for a test of JIRA git
 
 
 add git-6 comment   git-5
+ssfsdfdsf
